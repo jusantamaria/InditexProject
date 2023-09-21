@@ -1,4 +1,4 @@
-# PruebaTecnicaMlin
+# PruebaTecnicaInditex
 Este es un repositorio utilizado para una prueba técnica de una consultora.
 
 En esta prueba técnica se haran 3 diferentes tipos de tests: 
