@@ -1,0 +1,8 @@
+{
+    "data":{
+        "buscar": "automatización"
+    },
+    "endpoint":{
+        "automatizacion":"https://es.wikipedia.org/wiki/Automatizaci%C3%B3n"
+    }
+}

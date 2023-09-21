@@ -2,7 +2,7 @@
   "devDependencies": {
     "cypress": "^13.2.0"
   },
-  "name": "pruebamerlin",
+  "name": "pruebaTecnicaInditex",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -177,13 +177,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jusantamaria/PruebaTecnicaMlin.git"
+    "url": "git+https://github.com/jusantamaria/PruebaTecnicaInditex.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jusantamaria/PruebaTecnicaMlin/issues"
+    "url": "https://github.com/jusantamaria/PruebaTecnicaInditex/issues"
   },
-  "homepage": "https://github.com/jusantamaria/PruebaTecnicaMlin#readme",
+  "homepage": "https://github.com/jusantamaria/PruebaTecnicaInditex#readme",
   "description": ""
 }
