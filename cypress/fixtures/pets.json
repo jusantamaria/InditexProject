@@ -1,0 +1,564 @@
+[
+  {
+    "id": 9223372036854774000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854774000,
+    "category": {
+      "id": 0
+    },
+    "name": "",
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854774000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854774000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854774000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854774000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854774000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 577,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "Puma",
+    "photoUrls": [
+      "https://publish.purewow.net/wp-content/uploads/sites/2/2021/03/fluffy-dog-breeds-pomeranian.jpg?resize=720%2C524"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "photoUrls": [],
+    "tags": [],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854775000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 123,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854776000,
+    "category": {
+      "id": 0,
+      "name": "testName"
+    },
+    "name": "Tristan Fernandez",
+    "photoUrls": [
+      "test1",
+      "test2"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test1"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854776000,
+    "category": {
+      "id": 0,
+      "name": "testName"
+    },
+    "name": "Jeremy",
+    "photoUrls": [
+      "test1",
+      "test2"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test1"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 7574746,
+    "category": {
+      "id": 1,
+      "name": "Cat"
+    },
+    "name": "Hardy",
+    "photoUrls": [
+      "https://i.pinimg.com/originals/5c/2c/44/5c2c44f16da1caf134c00bc4f9c72ea0.jpg"
+    ],
+    "tags": [
+      {
+        "id": 7805,
+        "name": "Mainecoon"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 20593238,
+    "category": {
+      "id": 96650357,
+      "name": "ut aute"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "in deserunt sit qui elit",
+      "do dolore"
+    ],
+    "tags": [
+      {
+        "id": 80489283,
+        "name": "dolore elit aute Excepteur anim"
+      },
+      {
+        "id": -29854588,
+        "name": "enim"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854776000,
+    "category": {
+      "id": 48345351,
+      "name": "dolore quis"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "deseru",
+      "nisi aute do incididunt"
+    ],
+    "tags": [
+      {
+        "id": 72677302,
+        "name": "in incididunt dolore occaecat"
+      },
+      {
+        "id": -38449077,
+        "name": "adipisicing"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854776000,
+    "category": {
+      "id": 0,
+      "name": "testName"
+    },
+    "name": "Michael",
+    "photoUrls": [
+      "test1",
+      "test2"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test1"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854776000,
+    "category": {
+      "id": 0,
+      "name": "testName"
+    },
+    "name": "Paige",
+    "photoUrls": [
+      "test1",
+      "test2"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "test1"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854776000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 9223372036854770000,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 324214141,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 1555,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 74408294,
+    "category": {
+      "id": 70278030,
+      "name": "in adipisicing"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "nostrud sunt eu occaecat elit",
+      "esse aute non magna"
+    ],
+    "tags": [
+      {
+        "id": 81618844,
+        "name": "id aliquip"
+      },
+      {
+        "id": -96817599,
+        "name": "ut elit esse"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 214678123,
+    "category": {
+      "id": 0,
+      "name": "Кошка"
+    },
+    "name": "Мила",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 105,
+    "category": {
+      "id": 10,
+      "name": "string"
+    },
+    "name": "daggy2",
+    "photoUrls": [
+      "https://s6.stc.all.kpcdn.net/family/wp-content/uploads/2022/02/staff-sobaka-960x540-1-960x540.jpg"
+    ],
+    "tags": [
+      {
+        "id": 15,
+        "name": "Good boy"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 80085,
+    "category": {
+      "id": 10,
+      "name": "string"
+    },
+    "name": "Leon",
+    "photoUrls": [
+      "https://s6.stc.all.kpcdn.net/family/wp-content/uploads/2022/02/staff-sobaka-960x540-1-960x540.jpg"
+    ],
+    "tags": [
+      {
+        "id": 15,
+        "name": "Good boy"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 111,
+    "category": {
+      "id": 111,
+      "name": "arc"
+    },
+    "name": "arc",
+    "photoUrls": [
+      "<string>",
+      "<string>"
+    ],
+    "tags": [
+      {
+        "id": 111,
+        "name": "arc"
+      },
+      {
+        "id": 111,
+        "name": "arc"
+      }
+    ],
+    "status": "sold"
+  }
+]
