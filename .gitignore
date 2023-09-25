@@ -1,3 +1,9 @@
 # Ignora la carpeta node_modules
 node_modules
 
+# Ignora package.json
+package.json
+package-lock.json
+
+# Ignora cypress.config.js
+cypress.config.js
