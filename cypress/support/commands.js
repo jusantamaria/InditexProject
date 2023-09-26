@@ -5,5 +5,8 @@ Cypress.Commands.add('aceptarCookies', () => {
         if ($popup.find('#L2AGLb > .QS5gu').length > 0) {
         cy.get('#L2AGLb > .QS5gu').click(); 
         }
+        else(() => {
+            // Si el pop-up de cookies no está presente, no hagas nada
+        });
     })
 });
