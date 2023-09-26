@@ -6,7 +6,6 @@ removeLogs();
 describe('Automatización de una web', () => {
     beforeEach('Buscar en Google el criterio Automatización', () => {
         cy.visit('https://www.google.com/');
-        cy.aceptarCookies();
         google.get.buscador().type('Automatización {enter}');
         cy.scrollTo(0,500);
         cy.get('h3').contains('Automatización - Wikipedia, la enciclopedia libre').click({force:true});
