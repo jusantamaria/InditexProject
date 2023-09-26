@@ -2,7 +2,7 @@ class Google {
     get = {
         buscador: () => cy.get('#APjFqb'),
         aceptarCookies:()=> cy.get('#L2AGLb > .QS5gu'),
-        resultado:()=> cy.get('h3[class="LC20lb MBeuO DKV0Md"]')
+        // resultado:()=> cy.get('h3[class="LC20lb MBeuO DKV0Md"]')
 
     }
     cookies(){
