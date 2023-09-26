@@ -1,4 +1,4 @@
-Proyecto: Prueba técnica RealNaut
+Proyecto: Prueba técnica Inditex
 
 Tipo de incidencia: BUG
 
