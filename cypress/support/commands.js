@@ -1,12 +1,10 @@
 Cypress.Commands.add('aceptarCookies', () => {
-    cy.get('.jw8mI', { timeout: 5000 })
-    .should('be.visible') 
-    .then(($popup) => {
-        if ($popup.find('#L2AGLb > .QS5gu').length > 0) {
-        cy.get('#L2AGLb > .QS5gu').click(); 
+    cy.get('.jw8mI', { failOnStatusCode: false }).then(($element) => {
+        if ($element.length > 0) {
+        cy.get('.jw8mI').should('contain.text','Antes de ir a Google') 
+        } else {
+
         }
-        else(() => {
-            // Si el pop-up de cookies no está presente, no hagas nada
-        });
-    })
+        cy.get('#L2AGLb > .QS5gu').click(); 
+    });
 });
